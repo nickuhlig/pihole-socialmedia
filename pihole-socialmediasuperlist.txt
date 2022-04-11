@@ -2,6 +2,9 @@
 # Created from the lists found at https://github.com/gieljnssns/Social-media-Blocklists
 
 #reddit
+reddit\.com.*
+old.reddit.com
+www.reddit.com
 reddit.com
 redditstatic.com
 redditmedia.com
