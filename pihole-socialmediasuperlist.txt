@@ -3,6 +3,13 @@
 
 #reddit
 reddit.com
+gql.reddit.com
+styles.redditmedia.com
+gateway.reddit.com
+w3-reporting-nel.reddit.com
+oauth.reddit.com
+*.reddit.com
+gql-realtime.reddit.com
 reddit.com.*
 old.reddit.com
 www.reddit.com
